@@ -31,7 +31,7 @@ As imagens foram obtidas por meio de capturas de tela utilizando a ferramenta pa
 
 Figura 1. Exemplo de frame extraído da série Arcane
 
- <img src="./images/arcane1.png" alt="arcane" width="500" height="600">
+ <img src="./images/arcane1.png" alt="arcane" width="800" height="500">
 
 Fonte: Netflix, 2021.
 
@@ -39,7 +39,7 @@ A partir disso foi iniciado o pré-processamento. O primeiro passo foi renomear,
 
 Figura 2. Exemplo de imagem redimensionada, 80% borrada
 
- <img src="./images/arcane2.png" alt="arcane" width="500" height="600">
+ <img src="./images/arcane2.png" alt="arcane" width="800" height="500">
 
 Fonte: Autores, 2022.
 
@@ -53,7 +53,7 @@ Com base nas análises de histograma, foi identificado um pico de luminosidade p
 
 Figura 3. Exemplo de histograma obtido
 
-<img src="./images/histogram.png" alt="histograma" width="500" height="600">
+<img src="./images/histogram.png" alt="histograma" width="800" height="500">
 
 Fonte: Autores, 2022
 
@@ -61,7 +61,7 @@ Tal informação foi utilizada como vantagem para a segmentação usando limiari
 
 Figura 4. Processamento da imagem
 
- <img src="./images/pipeline.png" alt="pipeline" width="500" height="600">
+ <img src="./images/pipeline.png" alt="pipeline" width="800" height="500">
 
 Fonte: Autores, 2022
 
@@ -77,7 +77,7 @@ A acurácia foi calculada utilizando um algoritmo simples de similaridade entre 
 
 Figura 5. Acurácia do programa para os diferentes pipelines
 
- <img src="./images/accuracy.png" alt="accuracy" width="500" height="600">
+ <img src="./images/accuracy.png" alt="accuracy" width="800" height="500">
 
 Fonte: Autores, 2022
 
